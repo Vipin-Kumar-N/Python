@@ -1,5 +1,0 @@
-print("the area and perimeter of a Rectangle")
-l=int(input("enter the length of rectangle"))
-b=int(input("enter the breadth of rectangle"))
-print("area of the Rectangle is:",l*b)
-print("perimeter of the Rectangle is:",2*(l+b))
